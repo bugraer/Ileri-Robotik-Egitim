@@ -1,1 +1,4 @@
 # Ileri-Robotik-Egitim
+
+Bu ders kapsamında öğrenciler; robot çeşitleri ve endüstriyel alanlardaki teknolojik uygulamaları, istenilen robotik uygulamaya yönelik uygun algılayıcı seçme ve uygun donanımını kurarak temel sinyal işleme yöntemlerini uygulama, hazır bir geliştirme kartı üzerinden motorun hareket kontrolünü gerçekleştirme, 2, 3 ve 5 eksenli robot sistemi uygulamalarını donanım ve yazılımları ile birlikte gerçekleştirebilme gibi genel kazanımlar elde ederler. Bu ders, daha önce öğretilen ve uygulanan bilgileri pekiştirme ve daha derinlemesine uygulamalar yapabilme olanağı sağlar. Öğrencilerin diğer eğitimlerde aldıkları altyapı ile robotik teknolojiyi besleyen unsurlarla daha hızlı, daha güçlü ve daha akıllı robotlar tasarlayabilmeleri hedeflenmektedir.
+Ders 12 hafta sürmektedir. Ders sonunda görev temelli yarışma düzenlenmektedir.
